@@ -1,0 +1,17 @@
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow
+}
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  float: left;
+}
