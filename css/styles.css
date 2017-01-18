@@ -1,7 +1,14 @@
 .sidebar {
   width: 30%;
   float: right;
+  border: 6px solid orange;
+  padding: 10px;
   background-color: yellow
+}
+
+.rest {
+  margin: 12px;
+  padding: 2px;
 }
 
 body {
@@ -14,4 +21,9 @@ h1 {
 
 img {
   float: left;
+  margin-right: 10px;
+  margin-bottom: 3px;
+  margin-left: 10px;
+  border: 2px solid green;
+
 }
